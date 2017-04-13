@@ -1,6 +1,6 @@
 # autocomplete-webpack package
 
-[![apm](https://img.shields.io/apm/dm/autocomplete-webpack.svg)]()
+[![apm](https://img.shields.io/apm/dm/autocomplete-webpack.svg)](https://atom.io/packages/autocomplete-webpack)
 
 ## What is it? 
 
