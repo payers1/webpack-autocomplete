@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-webpack",
   "main": "./lib/autocomplete-webpack",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Autocompletion for Webpack config files",
   "keywords": [],
   "repository": "https://github.com/payers1/webpack-autocomplete",
