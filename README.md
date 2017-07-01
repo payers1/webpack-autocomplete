@@ -1,5 +1,7 @@
 # autocomplete-webpack package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/payers1/webpack-autocomplete.svg)](https://greenkeeper.io/)
+
 [![apm](https://img.shields.io/apm/dm/autocomplete-webpack.svg)](https://atom.io/packages/autocomplete-webpack)
 
 ## What is it? 
